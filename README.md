@@ -9,6 +9,13 @@
 6. [Visualization](#visualization)
 7. [Author](#author)
 
-
 ## Overview
-This project demonstrates data analysis and visualization techniques applied to hospital admission data. The notebook processes patient data to gain insights and format it for further use.
+This project focuses on analyzing the usage of bed types from existing hospital admission data, visualizing the patterns, and forecasting the future demand for different types of beds required by the hospital. By utilizing data analysis techniques and visualizations, it provides actionable insights for hospital resource management.
+
+## Features
+- Visualization of missing data using heatmaps.
+- Cleaning and formatting hospital admission data.
+- Conversion of date fields into structured formats for analysis.
+- Extraction of monthly and yearly trends from admission data.
+- Forecasting future demand for hospital bed types.
+- Productive and effective visualizations for actionable insights.
