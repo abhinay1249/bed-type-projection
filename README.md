@@ -52,7 +52,7 @@ To use or extend the code:
 - Run the notebook sequentially to reproduce the results.
 
 ## Prerequisites
-- Python 3.x
+- Python 3.11.1
 - Jupyter Notebook or any IDE supporting `.ipynb` files.
 
 ## Visualization
